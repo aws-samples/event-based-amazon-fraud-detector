@@ -1,0 +1,23 @@
+{
+  "customer_id": {
+  	"S": "u82-1alz-RI301"
+  },
+  "card_number": {
+  	"S": "2442230821108788"
+  },
+  "is_blocked": {
+  	"BOOL": false
+  },
+  "last_name": {
+  	"S": "YOUR_LAST_NAME"
+  },
+  "first_name": {
+  	"S": "YOUR_FIRST_NAME"
+  },
+  "phone_number": {
+  	"S": "+123456789"
+  },
+  "salutation": {
+  	"S": "Mrs"
+  }
+}

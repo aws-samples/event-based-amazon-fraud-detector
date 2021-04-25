@@ -1,0 +1,22 @@
+{
+  "customer": "u82-1alz-RI301",
+  "card_number": "912387564224",
+  "transaction": {
+    "transaction_amt": "4155.0",
+    "transaction_adj_amt": "58.0",
+    "ip_address": "62.39.153.176",
+    "email_address": "jonathan15@example.org",
+    "phone_number": "(565)912-3989",
+    "merchant_id": "341-81-5775",
+    "billing_city": "Lake Chloefurt",
+    "billing_postal": "90768",
+    "billing_state": "South Dakota",
+    "currency": "eur",
+    "cvv": "V",
+    "signature_image": "B",
+    "transaction_type": "T",
+    "transaction_env": "U",
+    "applicant_name": "Priscilla Rojas",
+    "billing_address": "4994 Brown Streets Suite 884"
+  }
+}
