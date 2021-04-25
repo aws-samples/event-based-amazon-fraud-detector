@@ -131,7 +131,7 @@ Resources:
                   - !Join [':', [ 'arn:aws:logs', !Ref AWS::Region, !Ref AWS::AccountId, '*' ] ]
                   - !Join ['', [ 'arn:aws:dynamodb:', !Ref AWS::Region, ':', !Ref AWS::AccountId, ':table/', !Ref DynamoTable, "/index/*" ] ]
                   - !Join ['', [ 'arn:aws:dynamodb:', !Ref AWS::Region, ':', !Ref AWS::AccountId, ':table/', !Ref DynamoTable ] ]
-                  - !Join ['', [ 'arn:aws:connect:', !Ref AWS::Region, ':', !Ref AWS::AccountId, ':instance/', !Ref InstanceID, '/contact/*' ] ]
+                  - !Join ['', [ 'arn:aws:connect:', !Ref AWS::Region, ':', !Ref AWS::AccountId, ':instance/', !Ref InstanceID, '/*' ] ]
               - Effect: Allow
                 Action:
                   - logs:CreateLogStream
