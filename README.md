@@ -6,7 +6,7 @@ Using Amazon Connect a cardholder can be notified immediately of a suspected car
  
 This post shows you how to build, train and deploy a fraud detection model and rules using Amazon Fraud Detector and integrate predictions with Amazon Connect in order to connect with customers in real-time. Amazon Fraud Detector is a fully managed service that uses machine learning (ML) and more than 20 years of fraud detection expertise from Amazon, to identify potentially fraudulent activity so customers can catch more online fraud faster. Amazon Connect is an omnichannel cloud contact center that helps you provide superior customer service at a lower cost.
 
-You will find the blog here:
+You will find the blog [here.](https://aws.amazon.com/blogs/machine-learning/event-based-fraud-detection-with-direct-customer-calls-using-amazon-connect/)
 
 ## Security
 
